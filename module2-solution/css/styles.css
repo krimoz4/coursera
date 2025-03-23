@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    margin-bottom: 0;
+}
+
+.row {
+    height: 1000px; /* Ensures the section is tall enough to require scrolling */
+    background-color: #f8f8f8; /* Distinguishes the section */
+}
